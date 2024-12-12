@@ -6,7 +6,7 @@ import json
 
 url = "https://rudragadekar1311.atlassian.net/rest/api/3/issue"
 
-API_TOKEN = "ATATT3xFfGF06zG4g225tPXXq29aSSL2tbnEp0Jfn91gJl0VX5QAkcNgOyCihMPzuvJHkKnNeZLEstUcuPrkC7JiiFIP7lH6ZaxJWzD6b1ih41K4qAy48ykcJskO9noWBSkW-uOWllwoIjhZAcKSm8KObaUrjdQbwpJ83haW2jyYdTV0r0nw7I8=8A8E5C09"
+API_TOKEN = ""
 
 auth = HTTPBasicAuth("rudragadekar13@gmail.com", API_TOKEN)
 
